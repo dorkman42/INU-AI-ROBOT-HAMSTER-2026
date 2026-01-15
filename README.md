@@ -7,9 +7,6 @@ Teachable Machine + 햄스터-S 로봇 AI 제어
 ```bash
 # uv 사용 (권장)
 uv sync
-
-# 또는 pip
-pip install roboid opencv-python numpy tf-keras
 ```
 
 ## 빠른 시작
